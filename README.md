@@ -2,7 +2,7 @@
 
 A **chatbot flow builder** built using **React**, **React Flow**, and **TypeScript**. This project allows users to create conversational flows visually by dragging, connecting, and configuring message nodes.
 
-![Chatbot Builder Screenshot]
+Chatbot Builder Screenshot
 
 <img width="1913" height="852" alt="image" src="https://github.com/user-attachments/assets/561e76f7-7222-4f11-8144-d61613991642" />
 
@@ -58,14 +58,21 @@ A **chatbot flow builder** built using **React**, **React Flow**, and **TypeScri
 ## 📸 Screenshots
 
 ### 🔧 Settings Panel on Node Selection
-![Settings Panel](<img width="1875" height="848" alt="image" src="https://github.com/user-attachments/assets/081322ba-3c7f-4765-ae11-9bf84b19199a" />
-)
+
+<img width="1875" height="848" alt="image" src="https://github.com/user-attachments/assets/081322ba-3c7f-4765-ae11-9bf84b19199a" />
 
 ### 🧩 Drag and Connect Nodes
-![Flow Canvas](./screenshots/flow-builder.png)
+
+<img width="1854" height="850" alt="image" src="https://github.com/user-attachments/assets/e6037006-782f-41f0-9eda-4da7a214756a" />
+
 
 ### ❌ Validation Error
-![Error Banner](./screenshots/error-banner.png)
+
+<img width="1859" height="857" alt="image" src="https://github.com/user-attachments/assets/9d1f7b1d-b187-4c6e-b70b-40948665b9e9" />
+
+### ✅ Saved changes
+
+<img width="1893" height="855" alt="image" src="https://github.com/user-attachments/assets/b641824f-c4b6-405a-99c1-46c0ecad2e9d" />
 
 ---
 
