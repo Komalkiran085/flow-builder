@@ -11,7 +11,7 @@ A **chatbot flow builder** built using **React**, **React Flow**, and **TypeScri
 
 ## 🔗 Live Demo
 
-👉 [Try it Live on Vercel](flow-builder-716oe0iy9-komalkiran085s-projects.vercel.app)
+👉 [Try it Live on Vercel](https://flow-builder-716oe0iy9-komalkiran085s-projects.vercel.app/)
 
 ---
 
