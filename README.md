@@ -58,7 +58,8 @@ A **chatbot flow builder** built using **React**, **React Flow**, and **TypeScri
 ## 📸 Screenshots
 
 ### 🔧 Settings Panel on Node Selection
-![Settings Panel](./screenshots/settings-panel.png)
+![Settings Panel](<img width="1875" height="848" alt="image" src="https://github.com/user-attachments/assets/081322ba-3c7f-4765-ae11-9bf84b19199a" />
+)
 
 ### 🧩 Drag and Connect Nodes
 ![Flow Canvas](./screenshots/flow-builder.png)
